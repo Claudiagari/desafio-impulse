@@ -1,0 +1,106 @@
+/*************************************************************/
+@media (max-width: 1400px){
+
+}
+/*************************************************************/
+@media (max-width: 1200px){
+	
+}
+/*************************************************************/
+@media (max-width: 1100px){
+	
+}
+/*************************************************************/
+@media (max-width: 992px){
+	
+}
+/*************************************************************/
+@media (max-width: 900px){
+
+}
+/*************************************************************/
+@media (max-width: 850px){
+	
+}
+	
+/*************************************************************/
+@media (max-width: 768px){
+
+}
+
+/*************************************************************/
+@media (max-width: 600px){
+	#home{
+	 background:url(../assets/images/banner-movile.jpg) center center no-repeat;
+		background-size: cover;
+		padding: 134px 15px 300px 15px;
+		background-position-y: 60px;
+	}
+	#home h1, #home span{
+	font-size: 36px
+	}
+	#home p{
+		font-size: 16px;
+	}
+	#home h2 {
+		font-size: 20px;
+	}
+	.btn-guia{
+		padding: 9px 40px;
+	}
+	#tabla-de-contenidos, #tema1{
+		padding: 100px 10px;
+	}
+	#tabla-de-contenidos h2,#tema1 h2, #tema2 h2, #CTA h2, #tema3 h2{
+		font-size: 32px;
+	}
+	#tabla-de-contenidos ol{
+		font-size: 24px;
+	}
+	#tabla-de-contenidos ol li a{
+		font-size: 18px;
+		line-height: 24px;
+	}
+	#tema2{
+		padding: 100px 53px;
+	}
+	.card {
+		padding: 30px 10px;
+	}
+	#CTA img.img-fluid{
+		height: 80px;
+	}
+	#tema div.text-center.title{
+		padding: 0px 20px;
+	}
+	.bg-tema3{
+		padding: 0px 20px;
+	}
+	div.row .border-tema3:first-child{
+		border: none
+	}
+	.border-card1, .border-card2, .border-card3{
+		border-radius: 18px;
+		padding: 50px;
+	}
+	div.row .border-tema3:last-child {
+		padding-bottom: 30px;
+	}
+}
+
+/*************************************************************/
+@media (max-width: 480px){
+	
+}
+/*************************************************************/
+@media (max-width: 380px){
+	
+}	
+/*************************************************************/
+@media (max-width: 320px){
+}
+/*************************************************************/
+@media (max-width: 280px){
+}{
+
+}
